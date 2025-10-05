@@ -40,7 +40,7 @@
 注意：运算过程均为整数运算（除法运算'/'即按照C++定义的int除以int的结果，测试数据不会出现除数为0的情况），输出结果也为整数（可能为负）。
 中间计算结果可能为负。
 
-1. ==cpp==版本
+1. <mark>cpp</mark>版本
    
 ```c++ {.line-numbers}
 #include <iostream>
@@ -135,7 +135,7 @@ int main()
     return 0;
 }
 ```
-2. ==C==版本
+2. <mark>C</mark>版本
 
 ```c {.line-numbers}
 #include <stdio.h>
